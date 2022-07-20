@@ -1,5 +1,5 @@
 ## Simple snake game. p5.js
-No time for that, [just try it](https://shuricans.github.io/snake/).
+No time for that, [just try it](https://shuricans.github.io/Snake/).
 ### How to play?
 - Use arrow keys too turn or speed select.
 - Use space for start/restart.
